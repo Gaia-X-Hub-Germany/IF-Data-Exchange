@@ -36,3 +36,5 @@ This format offer the Data Space Community a place for exchange between projects
 
 ### Past Meetings & Interesting Reads
 - [The Eclipse Dataspace Protocol Is Pioneering Interoperability and Standardisation in Dataspaces](https://newsroom.eclipse.org/eclipse-newsletter/2024/june/eclipse-dataspace-protocol-pioneering-interoperability-and)
+- [IDSA Transfer Process Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/transfer-process/transfer.process.protocol)
+- [IDSA RESTful API over HTTPS for the Transfer Process Protocol](https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol/transfer-process/transfer.process.binding.https)
